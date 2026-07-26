@@ -16,7 +16,7 @@ import {
 } from 'lucide-react'
 import { PieChart as RechartsPieChart, Pie, Cell, ResponsiveContainer, Legend, Tooltip, BarChart, Bar, CartesianGrid, XAxis, YAxis } from 'recharts'
 import ChatSupport from './chat-support/ChatSupport'
-import Dashboard from './Dashboard/Dashboard'
+import Dashboard from './dashboard/Dashboard'
 import ManualRecharge from './manual-recharge/ManualRecharge'
 import UserLookup from './user-lookup/UserLookup'
 import RechargeHistory from './recharge-history/RechargeHistory'
